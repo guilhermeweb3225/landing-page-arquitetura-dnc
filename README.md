@@ -1,2 +1,2 @@
 # landing-page-arquitetura-dnc
- arquitetura
+ Esta é uma landing page desenvolvida para uma empresa de arquitetura, criada com HTML, CSS e JavaScript. Ela coleta informações fornecidas pelos clientes e as envia automaticamente para uma planilha através do <a href="https://docs.google.com/spreadsheets/d/10ZPmWKBJt32Nq_0VjMy1OeZVD9WYEcDwUR9LYf_yAik/edit?gid=0#gid=0">Sheet Monkey</a>.<a href="https://19ab5b70-8069-4a80-9cdb-49defaf95b24-00-2z1n0l7ml8wjv.janeway.replit.dev/">Landing Page</a>
